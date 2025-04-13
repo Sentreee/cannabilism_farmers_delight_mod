@@ -1,6 +1,6 @@
 # 🍖 Cannibal's Delight - A Farmer's Delight Addon
 
-**Minecraft Mod | Forge/Fabric | Version X.X.X**
+**Minecraft Mod | Forge | Version 1.20.1**
 
 **Cannibal's Delight** is a dark and flavorful addon for [Farmer’s Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight), adding new items, blocks, and mechanics centered around *cannibalism*. This mod is intended for storytelling, horror-themed modpacks, or anyone who’s ever asked, “What if I could cook Steve?”
 
@@ -39,8 +39,8 @@
 ## 🔗 Dependencies
 
 - [Farmer’s Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)  
-- Forge/Fabric API  
-- Minecraft Version: **1.XX.X**
+- Forge API  
+- Minecraft Version: **1.20.1**
 
 ---
 
@@ -80,5 +80,5 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-> Mod concept by: *YourNameHere*  
+> Mod concept by: *Sentree*  
 > Inspired by *Farmer’s Delight* by vectorwing
